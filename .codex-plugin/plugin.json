@@ -1,0 +1,40 @@
+{
+  "name": "isaac-skills",
+  "version": "0.1.0",
+  "description": "Isaac's local Codex skill collection.",
+  "author": {
+    "name": "Isaac Martinez"
+  },
+  "homepage": "https://github.com/mattpocock/skills",
+  "repository": "https://github.com/mattpocock/skills",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "skills",
+    "engineering",
+    "productivity"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Isaac Skills",
+    "shortDescription": "Local Codex skills curated for Isaac's workflows.",
+    "longDescription": "A local Codex plugin containing copied and adapted engineering workflow skills.",
+    "developerName": "Isaac Martinez",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/mattpocock/skills",
+    "privacyPolicyURL": "https://github.com/mattpocock/skills/blob/main/README.md",
+    "termsOfServiceURL": "https://github.com/mattpocock/skills/blob/main/LICENSE",
+    "defaultPrompt": [
+      "Use TDD for this change.",
+      "Diagnose this bug methodically.",
+      "Grill my implementation plan."
+    ],
+    "brandColor": "#2563EB",
+    "screenshots": []
+  }
+}
