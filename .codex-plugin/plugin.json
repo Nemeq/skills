@@ -1,12 +1,12 @@
 {
   "name": "isaac-skills",
-  "version": "0.1.0",
+  "version": "0.1.0+codex.20260626113031",
   "description": "Isaac's local Codex skill collection.",
   "author": {
     "name": "Isaac Martinez"
   },
-  "homepage": "https://github.com/mattpocock/skills",
-  "repository": "https://github.com/mattpocock/skills",
+  "homepage": "https://github.com/Nemeq/skills",
+  "repository": "https://github.com/Nemeq/skills",
   "license": "MIT",
   "keywords": [
     "codex",
@@ -26,9 +26,9 @@
       "Read",
       "Write"
     ],
-    "websiteURL": "https://github.com/mattpocock/skills",
-    "privacyPolicyURL": "https://github.com/mattpocock/skills/blob/main/README.md",
-    "termsOfServiceURL": "https://github.com/mattpocock/skills/blob/main/LICENSE",
+    "websiteURL": "https://github.com/Nemeq/skills",
+    "privacyPolicyURL": "https://github.com/Nemeq/skills/blob/main/README.md",
+    "termsOfServiceURL": "https://github.com/Nemeq/skills/blob/main/LICENSE",
     "defaultPrompt": [
       "Use TDD for this change.",
       "Diagnose this bug methodically.",
